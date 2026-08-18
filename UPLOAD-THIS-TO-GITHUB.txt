@@ -1,0 +1,16 @@
+IMPORTANT:
+Upload the CONTENTS of this folder to the ROOT of your GitHub repository.
+Do not upload this ZIP as a single file.
+
+Required root:
+.github/
+app/
+gradle/
+gradlew
+gradlew.bat
+build.gradle.kts
+settings.gradle.kts
+gradle.properties
+README.md
+
+Then GitHub -> Actions -> Build Zoya APK -> Run workflow.
